@@ -1,2 +1,2 @@
 # hexashark
-Simple application for translating between bits, integer bytes, and hex bytes
+Simple application for translating between binary, hex, and decimal.
